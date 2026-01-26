@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=280&section=header&text=QUINCY%20DEV&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Tech%20Innovator&descAlignY=52&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=280&section=header&text=QUINCY%20DEV&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Pelajar%20Stress%20Anti%20Kritik%20%7C%20Bad%20Innovator&descAlignY=52&descSize=18" />
 
 <!-- Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
