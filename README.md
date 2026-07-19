@@ -162,20 +162,20 @@ fun_fact: "Codes best at 2AM with lo-fi anime OSTs playing"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=6366F1&text_color=E2E8F0&ring_color=0EA5E9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=quincy-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=6366F1&text_color=E2E8F0&ring_color=0EA5E9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quincy-dev&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0&langs_count=10" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincy-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0&langs_count=10" height="185"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night&bg_color=0F172A&color=06B6D4&line=6366F1&point=E2E8F0&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quincy-dev&theme=tokyo-night&bg_color=0F172A&color=06B6D4&line=6366F1&point=E2E8F0&hide_border=true" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=username&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=quincy-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
