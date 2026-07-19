@@ -1,28 +1,123 @@
-<div align="center">
+# 👋 Hi, I'm AA Studios
 
-<!-- Hero Banner with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=280&section=header&text=QUINCY%20DEV&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Pelajar%20Stress%20Anti%20Kritik%20%7C%20Bad%20Innovator&descAlignY=52&descSize=18" />
+::: {align="center"}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AA%20STUDIOS&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Unity%20Developer%20•%20Creative%20Technologist&descAlignY=55"/>`{=html}
 
-<!-- Dynamic Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Workspace+%F0%9F%91%8B;Building+Innovative+Solutions+%F0%9F%9A%80;Passionate+About+AI+%26+Web3+%F0%9F%A4%96;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
-</a>
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Building+Web+Applications;Creating+Games+with+Unity;Designing+VRM+Characters;Always+Learning+Something+New"/>`{=html}
+:::
 
-<br><br>
+------------------------------------------------------------------------
 
-<!-- Social Stats Bar -->
-<p>
-  <img src="https://img.shields.io/github/followers/quincy-dev?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/quincy-dev?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=quincy-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# 🌌 About Me
 
-</div>
+``` yaml
+Name: AA Studios
+Role: Software Engineering Student
+Country: Indonesia 🇮🇩
+Focus:
+  - Web Development
+  - Unity Game Development
+  - Artificial Intelligence
+  - UI/UX Design
+  - Blender & VRM
+Learning:
+  - Laravel
+  - Next.js
+  - Unity
+  - C#
+  - AI
+Goal:
+  - Become a Professional Software Engineer
+```
 
-<br>
+## 🚀 Tech Stack
 
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+::: {align="center"}
+### Languages
 
-<br>
+`<img src="https://skillicons.dev/icons?i=cpp,cs,php,js,ts,python,java"/>`{=html}
 
+### Frontend
+
+`<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs"/>`{=html}
+
+### Backend
+
+`<img src="https://skillicons.dev/icons?i=nodejs,express,laravel"/>`{=html}
+
+### Database
+
+`<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>`{=html}
+
+### Game & Design
+
+`<img src="https://skillicons.dev/icons?i=unity,blender"/>`{=html}
+
+### Tools
+
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,cloudflare,vercel"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+> Ganti `YOUR_USERNAME` dengan username GitHub milikmu.
+
+``` md
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true
+```
+
+`<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>`{=html}
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>`{=html}
+
+------------------------------------------------------------------------
+
+# 🎯 Current Focus
+
+-   🌐 Full Stack Web Development
+-   🎮 Unity Games
+-   🤖 AI Projects
+-   🎨 VRM Character Creation
+-   ☁ Cloud Deployment
+
+# 🗂 Featured Projects
+
+  Project         Description
+  --------------- --------------------------
+  Laravel App     Modern web application
+  Unity Game      Third-person game
+  VRM Character   Anime character creation
+  AI Tools        AI-powered utilities
+
+# 🎵 Coding Playlist
+
+-   🎧 Japanese Music
+-   🎧 Vocaloid
+-   🎧 Lofi
+-   🎧 Anime OST
+
+# 🌟 Goals
+
+-   Master Laravel
+-   Publish Unity Game
+-   Learn Advanced AI
+-   Contribute to Open Source
+-   Keep Learning Every Day
+
+------------------------------------------------------------------------
+
+# 💬 Quote
+
+> "Code with purpose. Design with creativity. Learn without limits."
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### Thanks for Visiting!
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>`{=html}
+:::
